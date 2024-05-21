@@ -1,0 +1,27 @@
+Q1.What is programming language?
+Ans. It is the set of instruction that instruct a computer how to carry out a task in the process of programming.
+
+Q2.Why do we need programming?
+Ans. Due to programmes developed by computer programming ,we can conduct online banking and purchase our ticket while travelling by train or aeroplane. It's true that our washing machine has few different kinds of computer programme. Programming makes it possible for all of these things and many more.
+
+Q3.What are features of Java?
+Ans. -SIMPLE
+-OBJECT ORIENTED 
+-PORTABLE
+-PLATFORM INDEPENDENT 
+-ROBUST 
+-DISTRIBUTED 
+-DYNAMIC
+
+Q4.What is object?
+Ans. An object is an entity with state and behaviour . 
+
+Q5.What is a class?
+Ans. A class is a collection of object that have similar traits, behaviour and attributes.
+
+Q6.Explain about the main() method in Java?
+Ans. The main() is the starting point for JVM to start execution of a Java Program. Without the main() method , JVM will not execute the program. The syntax of main() method is :
+
+public static void main(String args[])
+
+

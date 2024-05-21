@@ -1,0 +1,23 @@
+1.What is computer?
+Ans A computer is an electronic device that stores and process data often in binary form,in accordance with commands from a variable programme.
+
+2.What is RAM?
+Ans. Random-access memory is a form of electronic computer memory that can be read and changed in any order, typically used to store working data and machine code. 
+
+3.Where is data stored in computer?
+Ans. CPU
+ 
+4.What is the input device used to type text and number on a document in the computer system?
+Ans.Keyboard
+
+5.What are output devices?
+Ans.Monitor,printer,etc.
+
+6.Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans.Mouse 
+
+7.Which language is directly understood by the computer with a translation program?
+Ans.Machine language or machine code, is a low level language composed of binary digits.
+
+8.What are input devices?
+Ans.Input devices:Keyboard ,Mouse,Joystick.

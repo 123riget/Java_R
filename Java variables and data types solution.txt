@@ -1,0 +1,32 @@
+Q1.What is statically typed and dynamically typed programming language?
+Ans. Statically typed:- Programming languages are referred to as "static typed", if the memory of the variable is provided at the time of compilation.
+
+Dynamically typed: Programming languages are said to be "dynamically typed", if the memory for the variable is provided at the time of execution.
+
+Q2.What is the variable in Java?
+Ans. A variable is the name of memory allocated reserved area. It may be assumed as the name of a memory location in other words.
+
+Q3.How to assign a value to a variable?
+Ans. The value to a variable can be assigned by supplying an equal sign and a value. However a java uninitialized local variable is never given a default value by the compiler 
+
+Type variable_name= value;
+
+Q4.What are primitive data type ?
+Ans. A primitive data type is a predefined by the language and is named by a reserved keyword.
+
+For example :- 1)int 2)byte 3)short 4)Boolean 5)long 6)double 7)float 8)char
+
+Q5. What are identifier in java?
+Ans. An identifier is a name given to a package , class ,interface , method or variable. All identifier must have different names.
+
+Q6.List the operators in Java?
+Ans. Operators in java are: 1)Arithmetic operators 2)Relational operator 3)Logical operator 4)Assignment operator 5)Unary operator 6)Bitwise Operator
+
+Q7. Explain about increment and decrement operator and give an examples?
+
+Ans. : Increment and Decrement Operators in Java are used to increase or decrease the value by 1. For example, 
+Incremental operator ++ is useful to increase the existing variable value by 1 (i = i + 1). Moreover, the decrement 
+operator – – is useful to decrease or subtract the current value by 1 (i = i – 1). The syntax of both increment and 
+decrement operators in Java Programming to prefix or postfix is
+ Increment Operator : ++x or x++
+ Decrement Operator: --x or x-
