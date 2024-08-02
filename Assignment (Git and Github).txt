@@ -1,0 +1,42 @@
+Q1. What is git?
+
+Ans: Git is a free and open source software for distributed version control , which means that it tracks changes in any set of files, usually for software development .It enables you to store code , track revision history, merge code changes, and revert to earlier code versions when needed.
+
+Q2. What do you understand by the term 'Version Control System'?
+
+Ans: Version control , also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+Q3. What is GitHub?
+
+Ans: GitHub is a web based platform that hosts Git repositories, providing developers with tools for version control and collaboration. Whether you are working on a small personal project or a large enterprise application, GitHub can streamline our workflow and enhance productivity.
+
+Q4. Mention some popular Git hosting services?
+
+Ans: GitHub, GitLab, Bitbucket, Beanstalk, Amazon AWS CodeCommit
+
+Q5. Different type of version control systems?
+
+Ans: 1.Centralized version control system 
+2.Distributed version control system
+
+Q6.What benefits come with using GIT?
+
+Ans: 1.Fast Processing: Git operations are fast, mainly because they are performed on our local repository copy.
+
+2.Smaller repositories: A typical Git repository is smaller than other version control systems.
+
+3.Security: Git is designed to maintain the integrity of source code and handles security with cryptographic method SHA-1.
+
+4.Flexibility: The work-flow operations in Git are flexible in nature.
+
+Q7. What is Git repository?
+
+Ans: The  repositories of GitHub act as essential places for storing the files with maintaining the versions of development. By using GitHub repositories developers can organize, monitor, and save their changes of code to their projects in remote environments. The files in the GitHub repository are imported from the repository into the local server of the user for further updations and modifications in the content of the file.
+
+Q8. How can you initialize a repository in Git?
+
+Ans: 1.Go to the directory containing the project and type git init to create a local repository.
+2.Type git add to add all of the relevant files, and git commit to save the changes.
+3.Create a .gitignore file to indicate all of the files you don't want to track, and use git add .gitignore to stage it.
+4.Go to a hosted Git service like Bitbucket and create a remote repository there, and copy the Git URL.
+5.Type git remote add origin to link the local and remote repositories, and git push to upload the files.
